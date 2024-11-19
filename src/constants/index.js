@@ -86,6 +86,12 @@ export const reviews = [
         customerName: 'Lota Mongeskar',
         rating: 5,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+    },
+    {
+        imgURL: customer1,
+        customerName: 'Mone Closet',
+        rating: 5,
+        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     }
 ];
 
